@@ -31,7 +31,7 @@ export const DefaultLayoutConfig: ILayout = {
   aside: {
     minimized: false,
     minimize: true,
-    primaryColor: '#009ef7',
+
   },
   content: {
     width: 'fixed', // Set fixed|fluid to change width
